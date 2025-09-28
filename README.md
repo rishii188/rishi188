@@ -1,6 +1,6 @@
 # Hi, I'm Rishi Ranjan
 
-Computer Science student passionate about **AI/ML** and building projects at the intersection of **cognitive science and machine learning**.
+Computer Science student passionate about AI/ML, data science, and applied research. Projects span recommender systems, NLP, and cognitive-inspired AI.
 
 ### Projects
 - [Working Memory Simulator](https://github.com/your-link) — simulating bounded working memory in AI agents  
