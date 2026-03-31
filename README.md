@@ -1,9 +1,7 @@
 # Hi, I'm Rishi Ranjan
 
 Computer Science student at the **University of Surrey** (2023–2027), with a strong focus on 
-**data science, statistical modelling, and applied ML**. I'm interested in how data and 
-analytical thinking can drive real business decisions — particularly in marketing effectiveness, 
-econometrics, and AI-powered analytics.
+**data science, statistical modelling, and applied ML**.
 
 ---
 
